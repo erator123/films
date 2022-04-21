@@ -30,8 +30,8 @@ if (!isset($pages[$p])) {
 <nav>
         <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="php/filmy.php">films</a></li>
-            <li><a href="php/kontakty.php">contacts</a></li>
+            <li><a href="../php/filmy.php">films</a></li>
+            <li><a href="../php/kontakty.php">contacts</a></li>
         </ul>
     </nav>
 
