@@ -32,7 +32,7 @@ if (!isset($pages[$p])) {
     <meta name="keywords" content="film, films">
     <meta name="author" content="Michal Danihelka, Daniel Dostál">
     <title>Movies</title>
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="../css/index.css">
     <link rel="stylesheet" href="php/DatabaseUtils.php">
     <link rel="stylesheet" href="php/filmy.php">
     <link rel="stylesheet" href="php/kontakty.php">
